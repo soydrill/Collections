@@ -39,7 +39,6 @@ int main()
 	{
 		cout << item << " ";
 	}
-
 	cout << "\n";
 
 	cout << "int vector vi has " << vi.size() << " elements.\n";
